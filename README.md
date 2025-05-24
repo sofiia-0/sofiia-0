@@ -9,21 +9,21 @@ En este espacio se encuentran mis proyectos, aka pequeños experimentos.
 Actualmente, estoy enfocada en mejorar mis habilidades en desarrollo web y mobile. Aquí algunos de los lenguajes y herramientas con los que estoy trabajando:
 
 ### ⋆˙⟡ 📗 **Lenguajes**:
-- **JavaScript**: para hacer mis sitios más **interactivos**. 🧃
-- **CSS**: perfeccionando mis conocimientos en diseño web **responsive**. 💥
-- **HTML5**: estructura básica y accesibilidad web.
-- **Java**: profundizando en la programación orientada a objetos.
-- **Kotlin**: para crear aplicaciones móviles con Android.
-- **Swift**: desarrollando aplicaciones para dispositivos Apple.
-- **C y C++**: fortaleciendo mis bases en programación.
+- JavaScript
+- CSS
+- HTML5
+- Java
+- Kotlin
+- Swift
+- C y C++
 
 ### ⋆˙⟡ 🖇️ **Herramientas**:
-- **Postman**: para probar y documentar APIs.
-- **Spring**: explorando este framework para Java.
-- **Bootstrap**: simplificando el diseño con este framework de CSS.
-- **SQL** (MySQL, PostgreSQL, MSSQL): mejorando mis habilidades con bases de datos.
-- **Figma**: diseñando interfaces interactivas.
-- **Android**: desarrollando apps para dispositivos Android.
+- Postman
+- Spring
+- Bootstrap
+- SQL
+- Figma
+- Android
 
 ### ⋆˙⟡ 🍀 **En resumen:**
 
